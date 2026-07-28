@@ -1,0 +1,19 @@
+email,result,score,risk,time
+aaa@gmail.com,Human,29,LOW,2026-03-22 02:35:21
+bbb@gmail.com,BOT,9,HIGH,2026-03-22 02:35:24
+Nexus@gmail.com,Human,10,LOW,2026-03-22 02:35:25
+ccc@gmail.com,BOT,23,HIGH,2026-03-22 02:37:04
+ddd@mail.com,BOT,29,HIGH,2026-03-22 03:02:37
+abc@gmail.com,Human,16,LOW,2026-03-22 03:02:38
+xyz@gmail.com,BOT,32,HIGH,2026-03-22 11:24:04
+123@gmail.com,Human,18,LOW,2026-03-22 11:24:05
+2515@gmail.com,Human,11,LOW,2026-03-22 12:21:09
+Nexus AI@gmail.com,Human,31,LOW,2026-03-22 12:45:03
+
+tharunprabhu2004@gmail.com,HUMAN,93,LOW,2026-03-23 00:44:56
+tharunprabhu2004@gmail.com,HUMAN,89,LOW,2026-03-23 01:09:15
+tharunprabhu2004@gmail.com,HUMAN,85,LOW,2026-03-23 01:09:16
+tharunprabhu2004@gmail.com,HUMAN,74,LOW,2026-03-23 01:09:31
+abcd@gmail.com,HUMAN,86,LOW,2026-03-23 01:13:39
+abcd@gmail.com,HUMAN,95,LOW,2026-03-23 01:14:11
+abcd@gmail.com,HUMAN,73,LOW,2026-03-23 01:14:13
